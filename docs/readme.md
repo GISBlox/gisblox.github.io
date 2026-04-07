@@ -2,5 +2,5 @@
 
 Choose your language:
 
-- [English](en/readme)
-- [Nederlands](nl/readme)
+- [English](en/readme.md)
+- [Nederlands](nl/readme.md)
