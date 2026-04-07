@@ -4,5 +4,5 @@ Welcome to the English documentation for GISBlox.
 
 ## Products
 
-- [MCP Studio](mcp-studio/readme.md)
-- [GISBlox Studio](gisblox-studio/readme.md)
+- [MCP Studio](mcp-studio/readme)
+- [GISBlox Studio](gisblox-studio/readme)
