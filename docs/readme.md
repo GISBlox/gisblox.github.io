@@ -2,5 +2,5 @@
 
 Choose your language:
 
-- [English](en)
-- [Nederlands](nl)
+- [English](en/)
+- [Nederlands](nl/)

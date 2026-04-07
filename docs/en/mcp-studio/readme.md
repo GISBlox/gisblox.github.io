@@ -4,4 +4,4 @@ MCP Studio brings together data, geometry, and workflows. These pages help you u
 
 ## Sections
 
-- [Concepts](concepts)
+- [Concepts](concepts/)
