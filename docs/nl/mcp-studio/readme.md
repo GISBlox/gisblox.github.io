@@ -4,5 +4,5 @@ MCP Studio brengt data, geometrieën en workflows samen. Deze documentatie helpt
 
 ## Secties
 
-- [Concepten](concepts/readme)
-- [Handleidingen](guides/readme)
+- [Concepten](concepts)
+- [Handleidingen](guides)
